@@ -1,1 +1,1 @@
-Writes each of the MNIST example's frequency of correct classification, as given by CNNs trained to various degrees, into cvs files
+Writes each of the MNIST example's frequency of being correctly classified, as given by CNNs trained to various degrees, into cvs files
