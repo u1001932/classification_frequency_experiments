@@ -1,6 +1,8 @@
 """
 Simple, end-to-end, LeNet-5-like convolutional MNIST model example.
 
+Running this file creates 4 csv files, containing the number of instances each train and test
+case gets classified correctly, by 500 fully-trained LeNet-CNNs. 
 """
 from __future__ import absolute_import
 from __future__ import division
